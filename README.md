@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Hola soy estudiante de ing. Sistemas de 3 semestre !
+Universidad del valle - 2359695-3743
 <!--
 **sebastianzm05/sebastianzm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
